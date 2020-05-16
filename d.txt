@@ -2,3 +2,7 @@ MANIKANTA MYLAVARAPU
 
 third chnage directly addng into repo by using single command
 
+
+
+
+changes in b1 with example of merge with conflicts
