@@ -6,3 +6,5 @@ third chnage directly addng into repo by using single command
 
 changes in b1
 
+
+changes done but it was merge with conflicts
